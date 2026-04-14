@@ -2,6 +2,13 @@
 
 Sistema de atención al cliente vía WhatsApp simulado para una PyME chilena ficticia (Ferretería El Manque SpA). Incluye un simulador de interfaz tipo WhatsApp en React, un backend Node.js + Express con integración a un servicio LLM genérico (mockeable), persistencia en SQLite y un panel de administración con métricas.
 
+
+## Pantallas
+
+![chatbot-whatsapp](docs/screenshots/chatbot-whatsapp.png)
+
+![chatbot-admin](docs/screenshots/chatbot-admin.png)
+
 ## Autor
 
 - **Hector Riquelme** (GitHub: [HectorRiquelme](https://github.com/HectorRiquelme))
